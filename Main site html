@@ -1,0 +1,27 @@
+<html>
+
+<head>
+    <title> Проверка ошибок </title>
+    <meta charset="UTF-8"> 
+    <link rel="stylesheet" href="mine.css">
+</head>
+
+<body>
+
+<div class="all">
+	<header class="head">
+		<h3 class="logo"> I&A </h3>
+		<nav class="n">
+			<a class="p-active" href="#">Главная</a>
+			<a class="p" href="#">Анализ</a>
+			<a class="p" href="#">История</a>
+			<a class="p" href="XZ.html">Профиль</a>
+		</nav>
+	</header>
+
+	
+</div>
+
+</body>
+
+</html>
