@@ -1,0 +1,30 @@
+/* Main.html */
+<html>
+
+<head>
+    <title> Проверка ошибок </title>
+    <meta charset="UTF-8"> 
+    <link rel="stylesheet" href="mine.css">
+</head>
+
+<body>
+
+<div id="block">
+	<header>
+		<h3 class="logo"> I&A </h3>
+		<nav class="n">
+			<li><a class="p-active" href="#">Главная</a></li>
+			<li><a class="p" href="analize.html">Анализ</a></li>
+			<li><a class="p" href="#">История</a></li>
+			<li><a class="p" href="XZ.html">Профиль</a></li>
+		</nav>
+	</header>
+	
+	<main class="main">
+		<h1> Проверьте работу: </h1>
+		<input name="MyFile" class="MyFile" type="file">
+</div>
+
+</body>
+
+</html>
